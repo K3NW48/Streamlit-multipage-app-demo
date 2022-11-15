@@ -19,7 +19,7 @@ st.markdown(
     
     ## Check the sidebar for some other things!
 
-    ###Don't forget about all the goodies under my [linktr.ee/nbiish](https://linktr.ee/nbiish)
+    ### Don't forget about all the goodies under my [linktr.ee/nbiish](https://linktr.ee/nbiish)
 
     `I'll be learning more machine learning things and
     trying to apply them to First Nations issues! ^,^`
