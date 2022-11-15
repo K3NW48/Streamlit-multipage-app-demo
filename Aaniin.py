@@ -15,13 +15,12 @@ st.markdown(
     multipage app tutorial!
 
     Streamlit is pretty cool and I can see myself
-    making a few things in the ***near*** future!
-    
-    
-    ## Check the sidebar for some other things!
+    making a few things in the ***near*** future!  
+      
 
-    
-
+    ## Check the sidebar for some other things!  
+      
+        
     ### Don't forget about all the goodies under my [linktr.ee/nbiish](https://linktr.ee/nbiish)
 
     `I'll be learning more machine learning things and
