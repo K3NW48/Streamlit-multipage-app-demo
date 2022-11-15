@@ -17,7 +17,10 @@ st.markdown(
     Streamlit is pretty cool and I can see myself
     making a few things in the ***near*** future!
     
+    
     ## Check the sidebar for some other things!
+
+    
 
     ### Don't forget about all the goodies under my [linktr.ee/nbiish](https://linktr.ee/nbiish)
 
